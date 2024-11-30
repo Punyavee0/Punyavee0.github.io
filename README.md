@@ -1,4 +1,4 @@
 #Punyavee0.github.io
     -Punyavee
         -Pun
-![mypic]()
+![mypic](img/punyah.png)
