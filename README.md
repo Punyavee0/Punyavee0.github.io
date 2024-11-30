@@ -8,11 +8,11 @@ and I am currently a third-year student. from Kasetsart University, Sriracha Cam
 ![mypic](punyah.jpg)
 
 # Follow me on:
-   ![Salesforce](https://img.shields.io/badge/-Salesforce-blue?style=flat-square&logo=Salesforce&logoColor=white&link=https://www.salesforce.com/trailblazer/profile)
+   [Salesforce](https://img.shields.io/badge/-Salesforce-blue?style=flat-square&logo=Salesforce&logoColor=white&link=https://www.salesforce.com/trailblazer/profile)
    
-   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Punyavee0)
+   [GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Punyavee0)
    
-   ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pnnnnnnnnnnnnnnnnnnn_)
+   [Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pnnnnnnnnnnnnnnnnnnn_)
 
-   ![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008419989845)
+   [Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008419989845)
 
