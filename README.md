@@ -5,6 +5,7 @@ and I am currently a third-year student. from Kasetsart University, Sriracha Cam
 - Programming: Python, html
 - Tools: Git, Visual Studio Code
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+  ![Top Languages](Python)
 
  ![mypic](IMG_0455.jpeg)
