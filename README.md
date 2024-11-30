@@ -5,7 +5,7 @@ and I am currently a third-year student. from Kasetsart University, Sriracha Cam
 - Programming: Python, html
 - Tools: Git, Visual Studio Code
 
-![mypic](punyah.jpeg)
+![mypic](punyah.jpg)
 
 # Follow me on:
    ![Salesforce](https://img.shields.io/badge/-Salesforce-blue?style=flat-square&logo=Salesforce&logoColor=white&link=https://www.salesforce.com/trailblazer/profile)
