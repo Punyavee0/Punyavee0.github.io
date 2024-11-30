@@ -1,2 +1,1 @@
-paths-ignore:
-  - "assets/js"
+theme: minima
