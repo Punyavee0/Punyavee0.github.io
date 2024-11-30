@@ -6,6 +6,8 @@ and I am currently a third-year student. from Kasetsart University, Sriracha Cam
 - Tools: Git, Visual Studio Code
 
   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-  ![Top Languages](Python)
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yourname)
+  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/yourusername)
+
 
  ![mypic](IMG_0455.jpeg)
