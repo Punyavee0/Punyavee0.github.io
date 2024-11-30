@@ -5,8 +5,9 @@ and I am currently a third-year student. from Kasetsart University, Sriracha Cam
 - Programming: Python, html
 - Tools: Git, Visual Studio Code
 
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
   ![Salesforce](https://img.shields.io/badge/-Salesforce-blue?style=flat-square&logo=Salesforce&logoColor=white&link=https://www.salesforce.com/trailblazer/profile)
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Punyavee0)
+  ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pnnnnnnnnnnnnnnnnnnn_)
 
- ![mypic](IMG_0455.jpeg)
+
+![mypic](IMG_0455.jpeg)
