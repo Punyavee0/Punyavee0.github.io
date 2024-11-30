@@ -8,6 +8,6 @@ and I am currently a third-year student. from Kasetsart University, Sriracha Cam
   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
   ![Saleforce]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yourname](https://www.salesforce.com/trailblazer/profile))
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=[https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Punyavee0)
-
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/yourusername)
 
  ![mypic](IMG_0455.jpeg)
