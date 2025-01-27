@@ -8,7 +8,8 @@
 - **Control Function** : Preventative
 
 
-![mypic](images/DigitalDoorLock.jpg)
+![mypic](images/FadeID.jpg)
+![mypic](images/Password.jpg)
 
 <h3>เหตุผลที่จัดเป็น Physical Control</h3>
 	
