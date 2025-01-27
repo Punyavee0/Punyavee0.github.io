@@ -8,7 +8,7 @@
 - **Control Function** : Preventative
 
 
-![picture1](images/DigitalDoorLock.jpg)
+![mypic](images/DigitalDoorLock.jpg)
 
 <h3>เหตุผลที่จัดเป็น Physical Control</h3>
 	
