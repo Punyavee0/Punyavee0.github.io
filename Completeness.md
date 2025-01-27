@@ -1,5 +1,5 @@
 Completeness
-- Definition By: [source](https://www.montecarlodata.com/blog-what-is-data-completeness/#:~:text=Data%20completeness%20is%20a%20measure,six%20dimensions%20of%20data%20quality.)
+- Definition By: [source](https://www.montecarlodata.com/blog-what-is-data-completeness/)
   - Data completeness is a measure of how much essential information is included in a data set or model, and is one of the six dimensions of data quality.
  
 - CHAT GPT: Data completeness refers to the extent to which all required data is present and accounted for in a dataset. It involves ensuring that there are no missing, incomplete, or null values where data is expected. Complete data is crucial for accurate analysis, decision-making, and generating insights.
