@@ -1,1 +1,1 @@
-![mypic](images/ChristmasCard.jpg)
+![mypic](images/ChristmassCard.jpg)
